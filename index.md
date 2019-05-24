@@ -1,8 +1,6 @@
-- [01. **Python 工具**](01-python-tools)
-	 - [01.01 Python 简介](01-python-tools/01.01-python-overview.ipynb)
-	 - [01.02 Ipython 解释器](01-python-tools/01.02-ipython-interpreter.ipynb)
-	 - [01.03 Ipython notebook](01-python-tools/01.03-ipython-notebook.ipynb)
-	 - [01.04 使用 Anaconda](01-python-tools/01.04-use-anaconda.ipynb)
+- [01. **Python 使用入门**](01-python-tools-and-preview)
+	 - [01.01 Python 问答环节](01-python-tools-and-preview/01.01-python-question-answer.ipynb)
+
 - [02. **Python 基础**](02-python-essentials)
 	 - [02.01 Python 入门演示](02-python-essentials/02.01-a-tour-of-python.ipynb)
 	 - [02.02 Python 数据类型](02-python-essentials/02.02-python-data-types.ipynb)
