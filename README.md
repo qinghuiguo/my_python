@@ -40,6 +40,7 @@ https://item.jd.com/12328920.html
 
 ```
 $ jupyter notebook
+
 ```
 来进入 `jupyter notebook`。
 
@@ -228,3 +229,5 @@ conda update anaconda3
 	 - [12.01 十分钟上手 Pandas](12-pandas/12.01-ten-minutes-to-pandas.ipynb)
 	 - [12.02 一维数据结构：Series](12-pandas/12.02-series-in-pandas.ipynb)
 	 - [12.03 二维数据结构：DataFrame](12-pandas/12.03-dataframe-in-pandas.ipynb)
+![](payment.jpg)
+
