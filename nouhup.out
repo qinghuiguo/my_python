@@ -1,0 +1,64 @@
+[I 18:15:59.239 NotebookApp] Writing notebook server cookie secret to /run/user/0/jupyter/notebook_cookie_secret
+[W 18:15:59.656 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 18:15:59.700 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 18:15:59.744 NotebookApp] JupyterLab extension loaded from /root/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 18:15:59.744 NotebookApp] JupyterLab application directory is /root/anaconda3/share/jupyter/lab
+[I 18:15:59.751 NotebookApp] Serving notebooks from local directory: /mycode
+[I 18:15:59.751 NotebookApp] The Jupyter Notebook is running at:
+[I 18:15:59.751 NotebookApp] http://(qinghui-pc or 127.0.0.1):8888/
+[I 18:15:59.751 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 18:21:49.819 NotebookApp] 302 GET / (127.0.0.1) 1.46ms
+[W 18:21:49.845 NotebookApp] Clearing invalid/expired login cookie username-localhost-8888
+[W 18:21:49.846 NotebookApp] Clearing invalid/expired login cookie username-localhost-8888
+[I 18:21:49.847 NotebookApp] 302 GET /tree? (127.0.0.1) 2.70ms
+[I 18:21:51.745 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 2.01ms
+[I 18:26:49.341 NotebookApp] Kernel started: cbd06224-8eaa-4f06-a0f5-86a37376fb38
+[I 18:26:50.262 NotebookApp] Adapting to protocol v5.1 for kernel cbd06224-8eaa-4f06-a0f5-86a37376fb38
+[I 18:28:49.322 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 18:30:49.306 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 18:32:49.301 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 18:34:49.309 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 18:36:46.447 NotebookApp] Kernel interrupted: cbd06224-8eaa-4f06-a0f5-86a37376fb38
+[I 18:36:49.311 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 18:37:26.455 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 18:38:49.307 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:06:49.362 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:08:49.370 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:10:49.344 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:12:49.358 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:13:16.015 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:13:16.817 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[W 19:13:41.463 NotebookApp] Notebook my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb is not trusted
+[I 19:13:41.984 NotebookApp] Adapting to protocol v5.1 for kernel cbd06224-8eaa-4f06-a0f5-86a37376fb38
+[I 19:13:53.942 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:17:17.661 NotebookApp] Starting buffering for cbd06224-8eaa-4f06-a0f5-86a37376fb38:ff0ba823cf1049e48706e793d7015638
+[I 19:17:19.154 NotebookApp] Adapting to protocol v5.1 for kernel cbd06224-8eaa-4f06-a0f5-86a37376fb38
+[I 19:18:17.208 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:18:27.571 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:18:34.138 NotebookApp] Starting buffering for cbd06224-8eaa-4f06-a0f5-86a37376fb38:cfa5d58d992449038c6a7e37044aabb2
+[I 19:18:34.447 NotebookApp] Kernel shutdown: cbd06224-8eaa-4f06-a0f5-86a37376fb38
+[I 19:19:17.820 NotebookApp] 302 GET / (192.168.56.2) 0.68ms
+[W 19:19:17.828 NotebookApp] Clearing invalid/expired login cookie username-192-168-56-3-8888
+[W 19:19:17.829 NotebookApp] Clearing invalid/expired login cookie username-192-168-56-3-8888
+[I 19:19:17.829 NotebookApp] 302 GET /tree? (192.168.56.2) 1.89ms
+[I 19:19:18.556 NotebookApp] 302 POST /login?next=%2Ftree%3F (192.168.56.2) 0.98ms
+[I 19:20:22.186 NotebookApp] Kernel started: f60dcd88-9906-4d43-9d06-12e6b2a1efd3
+[I 19:20:22.794 NotebookApp] Adapting to protocol v5.1 for kernel f60dcd88-9906-4d43-9d06-12e6b2a1efd3
+[I 19:22:22.203 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:24:22.183 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:26:22.209 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:28:22.185 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:30:22.192 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:31:20.223 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:32:22.187 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:34:22.191 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:36:22.194 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:38:22.192 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:38:28.196 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:40:22.193 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:54:29.290 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:58:48.968 NotebookApp] Saving file at /my_python/01-python-tools-and-preview/01.01-python-question-answer.ipynb
+[I 19:58:56.144 NotebookApp] Starting buffering for f60dcd88-9906-4d43-9d06-12e6b2a1efd3:ab59d79d039141b8a23310a7546307b5
+[I 19:59:02.189 NotebookApp] Kernel shutdown: f60dcd88-9906-4d43-9d06-12e6b2a1efd3
+[C 19:59:28.873 NotebookApp] received signal 15, stopping
+[I 19:59:28.874 NotebookApp] Shutting down 0 kernels

@@ -1,4 +1,3 @@
-[![Analytics](https://ga-beacon.appspot.com/UA-80121379-2/notes-python)](https://github.com/lijin-thu/notes-python)
 
 # 中文 Python 笔记
 
@@ -29,11 +28,11 @@ https://item.jd.com/12328920.html
 
 大部分内容来自网络。
 
-默认安装了 `Python 2.7`，以及相关的第三方包 `ipython`， `numpy`， `scipy`，`pandas`。
+默认安装了 `Python 3.7`，以及相关的第三方包 `ipython`， `numpy`， `scipy`，`pandas`。
 
 > life is short. use python.
 
-推荐使用 [Anaconda](http://www.continuum.io/downloads)，这个IDE集成了大部分常用的包。
+推荐使用 [Anaconda3](http://www.continuum.io/downloads)，这个IDE集成了大部分常用的包。
 
 笔记内容使用 `jupyter notebook` 来展示。
 
@@ -48,12 +47,12 @@ $ jupyter notebook
 
 ## 基本环境配置
 
-- 安装 [Anaconda](http://www.continuum.io/downloads) 或者 [Miniconda](http://conda.pydata.org/miniconda.html)
+- 安装 [Anaconda3](http://www.continuum.io/downloads) 或者 [Miniconda](http://conda.pydata.org/miniconda.html)
 
 - 更新环境
 ``` 
 conda update conda
-conda update anaconda
+conda update anaconda3
 ```
 
 ---
