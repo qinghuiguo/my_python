@@ -18,11 +18,7 @@ https://item.jd.com/12328920.html
 
 天猫、亚马逊、当当均有销售。
 
-**打赏一下意思意思？**
 
-![](payment.jpg)
-
----
 
 ## 简介
 
@@ -229,5 +225,9 @@ conda update anaconda3
 	 - [12.01 十分钟上手 Pandas](12-pandas/12.01-ten-minutes-to-pandas.ipynb)
 	 - [12.02 一维数据结构：Series](12-pandas/12.02-series-in-pandas.ipynb)
 	 - [12.03 二维数据结构：DataFrame](12-pandas/12.03-dataframe-in-pandas.ipynb)
+
+---
+**打赏一下意思意思？**
+
 ![](payment.jpg)
 

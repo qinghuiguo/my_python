@@ -1,9 +1,9 @@
 - [01. **Python 使用入门**](01-python-tools-and-preview)
 	 - [01.01 Python 问答环节](01-python-tools-and-preview/01.01-python-question-answer.ipynb)
 
-- [02. **Python 基础**](02-python-essentials)
+- [02. **Python 类型和计算**](02-python-type-and-calculation)
 	 - [02.01 Python 入门演示](02-python-essentials/02.01-a-tour-of-python.ipynb)
-	 - [02.02 Python 数据类型](02-python-essentials/02.02-python-data-types.ipynb)
+	 - [02.02 Python ](02-python-essentials/02.02-python-data-types.ipynb)
 	 - [02.03 数字](02-python-essentials/02.03-numbers.ipynb)
 	 - [02.04 字符串](02-python-essentials/02.04-strings.ipynb)
 	 - [02.05 索引和分片](02-python-essentials/02.05-indexing-and-slicing.ipynb)
